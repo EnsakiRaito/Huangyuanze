@@ -3,10 +3,10 @@
 "BlogExamples": [
 {
 
-"title": "项目名1",
+"title": "视频类",
 
-"small": "副标题1",
-"p": "简介1",
+"small": "bilibili",
+"p": "暮苍来人",
 "src": "https://space.bilibili.com/268696/#/",
 
 "img": "imgs/1.png"
@@ -14,13 +14,13 @@
 
 {
 
-"title": "项目名2",
+"title": "文字类",
 
-"small": "副标题2",
-"p": "简介2",
+"small": "微信公众号",
+"p": "被重力束缚的灵魂",
 
 "src": "链接",
-"img": "缩略图链接"
+"img": "imgs/2.png"
 }
 ,
 {
